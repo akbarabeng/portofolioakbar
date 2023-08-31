@@ -1,0 +1,13 @@
+.education-entry {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.education-text {
+    flex: 1;
+}
+
+.clear {
+    clear: both;
+}
